@@ -1,0 +1,26 @@
+.main{
+    
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+}
+.ul{
+    display: flex;
+    gap: 40px;
+    margin-right: 40px;
+    margin-top: 30px;
+  
+}
+.h1{
+    margin-left: 40px;
+}
+
+
+a:link{
+    text-decoration: none;
+    list-style-type: none;
+    color: black;
+}
+.hm{
+    color: black;
+}

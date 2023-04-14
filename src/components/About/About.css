@@ -1,0 +1,25 @@
+.about{
+    margin-left: 200px;
+    display: flex;
+    gap: 20px;
+}
+.a1{
+    margin-left: 350px;
+    margin-top: 150px;
+}
+.under{
+    background-color: rgb(83, 17, 28);
+    height: 1px;
+    width: 100px;
+    margin-left: 350px;
+}
+.btn{
+    height: 50px;
+    width:100px ;
+    margin-left: 550px;
+    background: transparent;
+    border: 2px solid black;
+    
+
+
+}
